@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello 👋
+I'm Roman Baygildin. I'm Polyglot Developer in different fields of activity such as web, AI, audio processing and etc.
 
-<!--
-**rbaygildin/rbaygildin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in:
 
-Here are some ideas to get you started:
+*highload enterprise applications 
+*GPGPU data processing
+*AI and machine learning
+*audio processing
+*CI/CD automation and cloud development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m Java Team lead at Sber, creating varios web B2B applications
+
+📫 How to reach me:
+https://www.sberbank.ru/
+rbaygildin95@gmail.com
+https://www.linkedin.com/in/rbaygildin/
