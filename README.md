@@ -12,6 +12,6 @@ I'm interested in:
 🔭 I’m Java Team lead at Sber, creating varios web B2B applications
 
 📫 How to reach me:
-* https://www.sberbank.ru/
+* https://gitlab.com/rbaygildin95 
 * rbaygildin95@gmail.com
 * https://www.linkedin.com/in/rbaygildin/
